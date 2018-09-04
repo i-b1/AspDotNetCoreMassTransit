@@ -1,0 +1,2 @@
+# AspDotNetCoreMassTransit
+sample playground
